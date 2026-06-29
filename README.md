@@ -114,7 +114,7 @@ All modules share a common electrical ground (GND), while independent power buse
 Communication interfaces include UART, SPI, I²C and PWM.
 
 <p align="center">
-<img src="WiringDiagram.png" width="250">
+<img src="WiringDiagram.png" width="600">
 </p>
 
 ---
